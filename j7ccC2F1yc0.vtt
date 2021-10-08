@@ -1,28 +1,4 @@
-WEBVTT
 
-1
-00:00:00.000 --> 00:00:00.500
-
-
-2
-00:00:00.500 --> 00:00:03.150
-So in this lesson, we're going
-to cover joins in MongoDB.
-
-3
-00:00:03.150 --> 00:00:04.770
-So joins are used
-to combine data
-
-4
-00:00:04.770 --> 00:00:07.614
-from two or more collections,
-which is true for all database
-
-5
-00:00:07.614 --> 00:00:09.030
-systems, but the
-implementation is
 
 6
 00:00:09.030 --> 00:00:11.154

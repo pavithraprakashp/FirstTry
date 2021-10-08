@@ -1,4 +1,4 @@
-So in this lesson, we're going to cover joins in MongoDB.
+
 
 So joins are used to combine data from two or more collections, which is true for all database systems, but the implementation is going to be a little different in MongoDB.
 
